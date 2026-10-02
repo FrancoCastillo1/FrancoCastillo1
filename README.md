@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Estudiante avanzado de Ingeniería en Sistemas en la UTN, con interés en el desarrollo de software, inteligencia artificial y ciencia de datos. Cuento con experiencia académica y práctica trabajando con tecnologías como Python, Java, JavaScript, SQL, FastAPI, Spring Boot, React y Docker, además de conocimientos en bases de datos, programación paralela y distribuida, métodos numéricos y arquitectura de software. Me interesa comprender no solo cómo implementar una solución, sino también los fundamentos que hay detrás de ella, buscando desarrollar software eficiente, mantenible y escalable.
+Estudiante avanzado de Ingeniería en Sistemas en la UTN, con interés en el desarrollo de software, inteligencia artificial y ciencia de datos. Cuento con experiencia académica y práctica trabajando con tecnologías como Python, Java, JavaScript, SQL, FastAPI, Spring Boot, React y Docker, además de conocimientos en bases de datos, programación paralela y distribuida, métodos numéricos, arquitectura de software y desarrollo web FULL-STACK. Me interesa comprender no solo cómo implementar una solución, sino también los fundamentos que hay detrás de ella, buscando desarrollar software eficiente, mantenible y escalable.
 
 
 # 💻 Tech Stack:
